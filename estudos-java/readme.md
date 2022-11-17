@@ -1,1 +1,1 @@
-# Diretório destinado a práticas e estudos na área de java no bootcamp **Quebéc-Java**
+# Diretório destinado ao compartilhamento de práticas e estudos de Java no bootcamp **Quebéc Java** 📚👨‍💻
